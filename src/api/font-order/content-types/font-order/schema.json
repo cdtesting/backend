@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "font_orders",
+  "info": {
+    "singularName": "font-order",
+    "pluralName": "font-orders",
+    "displayName": "Font_order",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "amount": {
+      "type": "decimal"
+    },
+    "token": {
+      "type": "string"
+    },
+    "fonts": {
+      "type": "json"
+    },
+    "user": {
+      "type": "string"
+    }
+  }
+}

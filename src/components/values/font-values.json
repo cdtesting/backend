@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_values_font_values",
+  "info": {
+    "displayName": "Font_values"
+  },
+  "options": {},
+  "attributes": {
+    "font_name": {
+      "type": "string"
+    },
+    "font_family": {
+      "type": "string"
+    },
+    "font_link": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    }
+  }
+}

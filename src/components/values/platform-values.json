@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_values_platform_values",
+  "info": {
+    "displayName": "Platform_values"
+  },
+  "options": {},
+  "attributes": {
+    "option": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
